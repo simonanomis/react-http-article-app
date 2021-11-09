@@ -10,3 +10,7 @@ In the project directory, you can run:
 ### Install axios, third party library promise based HTTP client for the browser
 
 `npm install axios --save`
+
+### App UI
+
+![img.png](img.png)
